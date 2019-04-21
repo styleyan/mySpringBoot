@@ -1,0 +1,11 @@
+# properties 配置示例
+
+# 设置默认启动端口
+server.port=80
+# 应用启动路径
+#server.servlet.context-path=/
+logging.file=d:/javaLog/myspringboot.log
+# 调整日志默认输出的级别，debug->info->warn->error->fatal
+logging.level.root=info
+# 查看需要运行流程
+debug=false

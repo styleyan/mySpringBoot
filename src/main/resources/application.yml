@@ -1,0 +1,16 @@
+debug: true
+
+# loggin.file
+logging:
+  level:
+    root: info
+  file: d:/javaLog/myspringboot.log
+
+# 项目配置
+mall:
+  config:
+    name: 爱美商城
+    description: 这是一家化妆品特卖网站
+    hot-sales: 20
+    show-advert: true
+
