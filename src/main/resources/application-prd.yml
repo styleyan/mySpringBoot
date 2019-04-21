@@ -1,0 +1,19 @@
+debug: false
+
+# loggin.file
+logging:
+  level:
+    root: info
+  file: d:/javaLog/myspringboot.log
+
+# 项目配置
+mall:
+  config:
+    name: 1111111
+    description: 这是一家化妆品特卖网站
+    hot-sales: 20
+    show-advert: true
+
+# 启动服务端口
+server:
+  port: 80
