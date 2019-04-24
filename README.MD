@@ -1,5 +1,5 @@
 # spring boot相关注解
-
+- @springBootApplication: spring boot 启动入口文件
 - @Repository: 对应 DAO 类
 - @Service: 对应业务逻辑类
 - @Controller: 对应MVC中的控制器类

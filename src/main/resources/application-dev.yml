@@ -4,7 +4,7 @@ debug: true
 logging:
   level:
     root: info
-  file: d:/javaLog/myspringboot.log
+#  file: d:/javaLog/myspringboot.log
 
 # 项目配置
 mall:
