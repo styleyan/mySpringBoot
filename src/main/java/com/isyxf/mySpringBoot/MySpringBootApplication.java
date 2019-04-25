@@ -10,6 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MySpringBootApplication {
     public static void main(String[] args) {
         // 启动springBoot应用
-        SpringApplication.run(MySpringBootApplication.class);
+        SpringApplication.run(MySpringBootApplication.class, args);
     }
 }
